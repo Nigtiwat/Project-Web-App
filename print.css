@@ -1,0 +1,11 @@
+@page{
+    size: A6;
+    margin: 0;
+}
+#print{
+    display: none;
+    visibility: none;
+}
+.none{
+    display: none;
+}
